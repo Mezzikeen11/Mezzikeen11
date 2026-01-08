@@ -51,8 +51,8 @@ https://github.com/NoemiPuerto/MichiWeatherReact.git
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mezzikeen11&theme=rose_pine" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mezzikeen11&theme=rose_pine" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mezzikeen11&show_icons=true&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Mezzikeen11&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
