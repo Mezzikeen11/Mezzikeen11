@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&size=24&center=true&vCenter=true&width=600&height=80&lies=Bienvenid@+a+mi+perfil+💻;Estudiante+de+Ingeniería+en+Sistemas;Aprendiendo+Desarrollo+Frontend;Interesada+en+UI+%26+Web;En+camino+a+ser+Full+Stack" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&size=24&center=true&vCenter=true&width=600&height=80&lines=Bienvenid@+a+mi+perfil+💻;Estudiante+de+Ingeniería+en+Sistemas;Aprendiendo+Desarrollo+Frontend;Interesada+en+UI+%26+Web;En+camino+a+ser+Full+Stack" />
 </p>
 
 <br>
@@ -64,3 +64,4 @@ https://github.com/NoemiPuerto/MichiWeatherReact.git
 ---
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
