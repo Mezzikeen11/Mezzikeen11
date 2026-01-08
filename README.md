@@ -53,8 +53,9 @@ Participé en:
 
 ## 📊 Mis estadísticas de GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mezzikeen11&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mezzikeen11&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mezzikeen11)
+
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mezzikeen11)
 
 ---
 
