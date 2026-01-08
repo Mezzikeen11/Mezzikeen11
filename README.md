@@ -32,24 +32,6 @@
 
 ---
 
-## 📌 Proyecto destacado
-
-### 🐱 MichiWeather
-
-Proyecto escolar donde trabajamos:
-
-- 🌐 Frontend  
-- ⚙️ Backend  
-- ☁️ Consumo de API del clima  
-
-🔗 Versión HTML/JS:  
-https://github.com/NoemiPuerto/MichiWeather.git  
-
-🔗 Versión React:  
-https://github.com/NoemiPuerto/MichiWeatherReact.git  
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
